@@ -1,2 +1,2 @@
 # Instructions
-Compile the file problem3.cpp on any C++ compiler and run the executable. Or access the link https://onlinegdb.com/XL_6B-2cI, uncomment the function call that refers to the problem 3 and run the project.
+Compile the file problem3.cpp on any C++ compiler and run the executable, or access https://onlinegdb.com/ziExnHDot and uncomment the line referring to problem 3 to test it.
